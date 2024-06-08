@@ -1,2 +1,4 @@
 # git_tes
-cd
+mkdir repos
+cd repos/
+
